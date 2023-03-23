@@ -2,7 +2,7 @@
 ## Hi I'm [Brenda Saavedra](http://brendasaavedra.com) 👋
 
 
-### I am learning blockchain development 🚀
+### I am an iOS developer learning blockchain 🚀
 
 Get in touch wit me!
 
