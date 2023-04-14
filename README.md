@@ -2,7 +2,7 @@
 ## Hi I'm [Brenda Saavedra](http://brendasaavedra.com) 👋
 
 
-### I am an iOS developer learning blockchain 🚀
+### I am an iOS developer learning  ChatGPT 🚀
 
 Get in touch wit me!
 
